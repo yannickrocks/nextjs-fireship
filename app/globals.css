@@ -9,6 +9,7 @@ body {
   overflow-x: hidden;
   background-color: #e3e3e3;
   /* font-family: verdana, arial, sans-serif, helvetica; */
+  color: black;
 }
 
 .container {
